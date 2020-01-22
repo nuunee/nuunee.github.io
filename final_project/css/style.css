@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body {
+	color: #404040;
+	background-color: #f2f2f2;
+}
+
+h1 {
+	text-align: left;
+	letter-spacing: 1px;
+	font-weight: normal;
+	font-style: medium;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px; 
+	color: #660033;
+}
+
+h2 {
+	text-align: left;
+	font-weight: normal;
+	font-style: regular;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px; 
+	color: #660033;
+}
+
+h3 {
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: normal;
+	font-style: medium;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px; 
+	color: #4d4d4d;
+}
+
+h4 {
+	text-align: left;
+	font-weight: normal;
+	font-style: light;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px; 
+	color: #bfbfbf;
+}
+
+p {
+
+	text-align: left;
+	font-weight: normal;
+	font-style: extralight;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+}
+
+li {
+	text-align: left;
+	font-weight: normal;
+	font-style: extralight;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px; 
+	color: #808080;
+}
+
+#first-list li{
+	display: inline-block;
+	margin-right: 10px;
+	justify-content: left;
+}
+
+#second-list li{
+	display: inline-block;
+	margin-right: 10px;
+	justify-content: left;
+}
+
+.info {
+	color: #b3b3b3;
+	}
+
+.links {
+	color: #b3b3b3;
+
+}
+
